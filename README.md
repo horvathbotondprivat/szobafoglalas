@@ -1,0 +1,2 @@
+# szobafoglalas
+Szobafolalás python nyelven.
